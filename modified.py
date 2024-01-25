@@ -10,7 +10,7 @@ import matplotlib.pyplot as plt
 
 
 st.title('STOCK TREND PREDICTOR')
-ticker = st.sidebar.text_input('Ticker','SBIN.NS')
+ticker = st.sidebar.text_input('Ticker','AAPL')
 start_date = st.sidebar.date_input('Start Date')
 end_date = st.sidebar.date_input('End Date')
 
