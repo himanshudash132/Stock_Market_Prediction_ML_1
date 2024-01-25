@@ -8,3 +8,4 @@ matplotlib
 alpha-vantage
 stocknews
 scikit-learn
+tensorflow
