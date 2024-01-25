@@ -1,5 +1,3 @@
-
-Awesome Stock Trend Predictor with Streamlit!
 ** Welcome to your personal Stock Trend Predictor!** This Streamlit app helps you analyze and predict the future movements of your favorite stocks.
 
 ** Key Features:**
