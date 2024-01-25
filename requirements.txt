@@ -7,4 +7,4 @@ keras
 matplotlib
 alpha-vantage
 stocknews
-sklearn
+scikit-learn
