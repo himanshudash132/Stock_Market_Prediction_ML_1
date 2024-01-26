@@ -9,3 +9,5 @@ alpha-vantage
 stocknews
 scikit-learn
 tensorflow
+prophet 
+DateTime
