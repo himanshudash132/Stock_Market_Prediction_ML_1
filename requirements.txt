@@ -1,0 +1,11 @@
+streamlit
+yfinance 
+pandas
+numpy
+plotly
+keras
+matplotlib
+alpha-vantage
+stocknews
+scikit-learn
+tensorflow
