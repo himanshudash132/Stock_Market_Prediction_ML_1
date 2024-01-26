@@ -1,1 +1,1 @@
-streamlit run modified.py
+pip install streamlit fbprophet yfinance plotly
