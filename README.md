@@ -43,9 +43,17 @@ To run this project locally, follow these steps:
 
 4. Experiment with different algorithms and parameters to improve prediction accuracy.
 
+## Streamlit App
+
+This project is also available as a Streamlit web application. You can access the app [here](https://himanshudashstock-market-prediction-ml.streamlit.app/).
+
+## Upcoming Update
+
+Stay tuned for an upcoming update! We're working on improving model performance and adding new features to enhance your stock market prediction experience.
+
 ## Contributing
 
-Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
+Contributions are welcome! This is an open source project, and anybody can contribute. If you'd like to contribute to this project, please follow these steps:
 
 1. Fork the repository.
 2. Create a new branch (`git checkout -b feature/improvement`).
